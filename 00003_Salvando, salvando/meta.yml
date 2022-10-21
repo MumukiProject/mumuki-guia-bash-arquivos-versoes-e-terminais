@@ -6,16 +6,17 @@ editor: single_choice
 type: problem
 extra_visible: false
 language: text
+teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "...hacer una copia del archivo original, y luego modificar esa copia."
+  value: "...fazer uma cópia do arquivo original e modificar essa cópia."
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "...modificar el archivo original, y luego hacer una copia."
+  value: "...modificar o arquivo original e em seguida fazer uma cópia."
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "...hacer una copia del archivo, luego modificar esa copia, y finalmente
-    eliminar el archivo original."
+  value: "...fazer uma cópia do arquivo, modificar a cópia e, finalmente, excluir
+    o arquivo original."
   checked: false
-name: A guardar, a guardar, cada cosa en su lugar
+name: Salvando, salvando
