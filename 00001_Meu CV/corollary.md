@@ -1,0 +1,3 @@
+Muito bem! Não é difícil, não é mesmo?
+
+Fazer um currículo não parece ser uma tarefa tão desafiadora. O que pode se tornar um desafio é **mantê-lo atualizado** :open_mouth:. Vamos ver por quê…
