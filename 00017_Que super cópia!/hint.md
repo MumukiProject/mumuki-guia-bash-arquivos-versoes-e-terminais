@@ -1,0 +1,1 @@
+Lembre-se que por convenção estamos chamando nossos documentos de `curriculum-v<versao_number>.html`. Por exemplo, `curriculum-v12.html` é mais recente que `curriculum-v11.html`.

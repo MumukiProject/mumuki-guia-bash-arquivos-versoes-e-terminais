@@ -5,9 +5,10 @@ layout: input_bottom
 editor: 0
 type: interactive
 extra_visible: false
+teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_passes
   query: test -e curriculum-v5.html
-name: "¡Qué copión!"
+name: Que super cópia!

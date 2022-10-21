@@ -1,0 +1,1 @@
+E se apenas quiséssemos mudar o nome de um arquivo? Ou movê-lo de um local para outro?
