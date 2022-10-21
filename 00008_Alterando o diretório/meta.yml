@@ -5,11 +5,12 @@ layout: input_bottom
 editor: 0
 type: interactive
 extra_visible: false
+teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: |-
-    el_angel_gris.txt
-    el_bar_del_infierno.txt
-name: Cambiando de directorio
+  output: |
+    a_descoberta_do_mundo.txt
+    laços_de_familia.txt
+name: Alterando o diretório

@@ -1,0 +1,11 @@
+mkdir escritos
+cd escritos
+mkdir drummond
+mkdir lispector
+mkdir machado_de_assis
+touch ni_el_tiro_del_final.txt
+touch machado_de_assis/misa_de_gallo.txt
+touch drummond/Sentimento_do_mundo.txt
+touch drummond/poesias.txt
+touch lispector/a_descoberta_do_mundo.txt
+touch lispector/laços_de_familia.txt
