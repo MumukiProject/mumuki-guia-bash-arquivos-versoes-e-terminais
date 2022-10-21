@@ -1,0 +1,12 @@
+---
+tags: []
+layout: input_bottom
+editor: code
+type: interactive
+extra_visible: false
+manual_evaluation: false
+choices: []
+goal:
+  kind: query_passes
+  query: test -e /home/mumuki/rock/la_vida_es_una_moneda.mp3 && test ! -e /home/mumuki/rock/la_bida_es_una_moneda.mp3
+name: "¡A moverse!"

@@ -1,0 +1,16 @@
+---
+tags: []
+layout: input_bottom
+editor: code
+type: interactive
+extra_visible: false
+manual_evaluation: false
+choices: []
+goal:
+  kind: query_outputs
+  query: cat tareas.txt
+  output: |-
+    limpiar el taller
+    hacer las compras
+    terminar lección
+name: Necesito un reemplazo

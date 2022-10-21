@@ -1,0 +1,12 @@
+---
+tags: []
+layout: input_bottom
+editor: code
+type: interactive
+extra_visible: false
+manual_evaluation: false
+choices: []
+goal:
+  kind: last_query_outputs
+  output: "<html>\n  <head>  \n    <title>Mi Primer CV</title>\n  </head>\n</html>"
+name: The cat is under the terminal

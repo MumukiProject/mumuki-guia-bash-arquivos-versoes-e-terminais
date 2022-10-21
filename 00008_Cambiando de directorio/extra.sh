@@ -1,0 +1,11 @@
+mkdir escritos
+cd escritos
+mkdir borges
+mkdir dolina
+mkdir rivera
+touch ni_el_tiro_del_final.txt
+touch rivera/el_farmer.txt
+touch borges/ficciones.txt
+touch borges/el_libro_de_los_seres_imaginarios.txt
+touch dolina/el_bar_del_infierno.txt
+touch dolina/el_angel_gris.txt

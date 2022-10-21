@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: "...hacer una copia del archivo original, y luego modificar esa copia."
+  checked: true
+- value: "...modificar el archivo original, y luego hacer una copia."
+  checked: false
+- value: "...hacer una copia del archivo, luego modificar esa copia, y finalmente
+    eliminar el archivo original."
+  checked: false
+name: A guardar, a guardar, cada cosa en su lugar

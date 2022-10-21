@@ -1,0 +1,14 @@
+---
+tags: []
+layout: input_bottom
+editor: code
+type: interactive
+extra_visible: false
+manual_evaluation: false
+choices: []
+goal:
+  kind: last_query_outputs
+  output: |-
+    el_angel_gris.txt
+    el_bar_del_infierno.txt
+name: Cambiando de directorio
