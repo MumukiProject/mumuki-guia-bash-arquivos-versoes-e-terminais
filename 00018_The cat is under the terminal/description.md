@@ -1,3 +1,3 @@
-Veamos otro comando útil: `cat`, que toma un archivo como argumento y de gato no tiene nada :cat:. 
+Vejamos outro comando útil: `cat`, que recebe um arquivo como argumento e de gato não tem nada :cat:.
 
-> Descubrí qué hace: navegá hasta el directorio `curriculums` y ejecutá `cat curriculum-v1.html`    
+> Descubra o que faz: navegue até o diretório `currículos` e execute `cat currículo-v1.html`

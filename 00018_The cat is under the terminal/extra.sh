@@ -1,16 +1,16 @@
 mkdir curriculums
 touch zaraza.txt
-cat > curriculums/curriculum-v1.html <<EOF
+cat > curriculums/curriculo-v1.html <<EOF
 <html>
   <head>  
-    <title>Mi Primer CV</title>
+    <title>Meu Primeiro CV</title>
   </head>
 </html>
 EOF
-cat > curriculums/curriculum-v2.html  <<EOF
+cat > curriculums/curriculo-v2.html  <<EOF
 <html>
   <head>  
-    <title>Mi Primer CV</title>
+    <title>Meu Primeiro CV</title>
   </head>
 </html>
 EOF
