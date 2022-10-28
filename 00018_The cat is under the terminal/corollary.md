@@ -1,17 +1,16 @@
-:clap: ¡Bien hecho! 
+:clap: Muito bem!
 
-`cat` nos permite mostrar el contenido de un archivo. Peeero, ¡ojo! :eyes:, porque si el archivo es muy grande te puede llenar toda la pantalla :sweat_smile:.
+`cat`  permite mostrar o conteúdo de um arquivo. Maaaas, atenção! :eyes:, porque se o arquivo é muito grande sua tela pode ficar cheia :sweat_smile:.
 
-Para esos casos, te pueden ser útiles los comandos `head` y `tail` que te muestras las primeras y últimas N lineas de un archivo, respectivamente: 
+Para esses casos, você pode achar úteis os comandos `head` e `tail`, que mostram a primeira e a última N linhas de um arquivo, respectivamente:
 
 ```bash
-$ head -n 3 curriculum-v1.html
+$ head -n 3 currículo-v1.html
 <html>
   <head>  
-    <title>Mi Primer CV</title>
-$ tail -n 3 curriculum-v1.html
-    <title>Mi Primer CV</title>
+    <title>Meu Primeiro CV</title>
+$ tail -n 3 currículo-v1.html
+    <title>Meu Primeiro CV</title>
   </head>
 </html>
 ```
-
