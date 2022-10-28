@@ -5,13 +5,14 @@ layout: input_bottom
 editor: 0
 type: interactive
 extra_visible: false
+teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_outputs
-  query: cat tareas.txt
-  output: |-
-    limpiar el taller
-    hacer las compras
-    terminar lección
-name: Necesito un reemplazo
+  query: cat tarefas.txt
+  output: |
+    limpar o escritório
+    fazer as compras
+    terminar lição
+name: Preciso de uma substituição

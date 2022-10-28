@@ -1,1 +1,0 @@
-¡Cuidado con las tildes :wink:!
