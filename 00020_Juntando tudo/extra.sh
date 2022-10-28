@@ -1,6 +1,6 @@
-mkdir curriculums
-cd curriculums
-cat <<HTML > curriculum-v1.html
+mkdir curriculos
+cd curriculos
+cat <<HTML > curriculo-v1.html
 <html>
 <head>
   <title>Mi Currículum</title>
