@@ -8,7 +8,7 @@ GramadoNoInverno.png
 ...
 ```
 
-...o em outro onde você guarda sua  coleção de música:
+...ou em outro onde você guarda sua  coleção de música:
 
 ```bash
 $ ls
