@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "<html>\n  <head>  \n    <title>Meu Primeiro CV</title>\n  </head>\n</html>\n"
+  output: "<html>\n  <head>  \n    <title>Meu Primeiro CV</title>\n  </head>\n</html>"
 name: The cat is under the terminal
