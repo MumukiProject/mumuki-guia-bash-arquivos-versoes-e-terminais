@@ -12,7 +12,7 @@ gastos minhas_contas
 
 ```bash
 $ ls  
-forró sertanejo rock _Anna Julia_.ogg
+forro sertanejo rock _Anna Julia_.ogg
 $ mv Anna_Julia rock/Anna_Julia.ogg
 $ ls
 forró sertanejo rock

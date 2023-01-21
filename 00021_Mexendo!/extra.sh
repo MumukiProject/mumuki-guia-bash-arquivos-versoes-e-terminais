@@ -1,4 +1,4 @@
 mkdir forro
-mkdir rock
 mkdir sertanejo
+mkdir rock
 touch rock/tenpo_perdido.mp3 
