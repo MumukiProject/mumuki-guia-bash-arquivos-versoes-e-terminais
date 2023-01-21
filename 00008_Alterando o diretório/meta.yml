@@ -10,7 +10,7 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: |
+  output: |-
     a_descoberta_do_mundo.txt
     laços_de_familia.txt
 name: Alterando o diretório
