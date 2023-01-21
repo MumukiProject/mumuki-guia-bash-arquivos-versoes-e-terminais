@@ -1,1 +1,1 @@
-touch curriculum-v1.html 
+touch curriculo-v1.html
