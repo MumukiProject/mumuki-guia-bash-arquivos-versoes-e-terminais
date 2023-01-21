@@ -11,7 +11,7 @@ $ pwd
 /home/mumuki/poesias/drummond
 ```
 
-Mas não termina aqui! `cd` não apenas nos permite mover para um diretório _filho_ (por exemplo, `drummond` é um filho de `poesia`, porque está dentro dele), mas também para o diretório _pai_ no qual estamos de parados, fazendo `cd ..`:
+Mas não termina aqui! `cd` não apenas nos permite mover para um diretório _filho_ (por exemplo, `drummond` é um filho de `poesia`, porque está dentro dele), mas também para o diretório _pai_ fazendo `cd ..`:
 
 ```bash
 $ pwd
