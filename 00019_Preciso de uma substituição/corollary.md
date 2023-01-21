@@ -19,6 +19,6 @@ Porque se você parar pra pensar
 Na verdade não há
 ```
 
-Ah, e por que `-i`? E por que o `s`? E os `:`? Significa algo tudo isso?
+Ah, e por que `-i`? E por que o `s`? E os `:`? Tudo isso significa alguma coisa?
 
 Sim, com certeza! `sed` permite fazer uma infinidade de coisas. No [apêndice](../chapters/103-controle-de-versões/appendix) vamos contar algumas.
