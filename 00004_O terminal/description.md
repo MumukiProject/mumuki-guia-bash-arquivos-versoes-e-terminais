@@ -8,4 +8,4 @@ Acabamos de ver como gerar novas versões criando e editando cópias de `curríc
 
 e observar que existem três versões. Mas vamos conhecer uma nova forma: vamos usar **um terminal **! :
 
-> O terminal é o console que está a continuação, no qual você pode digitar comandos. Digite `ls` e veja o que acontece.  
+> O terminal é o console no qual você pode digitar comandos. Digite `ls` e veja o que acontece.  
