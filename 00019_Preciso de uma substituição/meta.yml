@@ -14,5 +14,5 @@ goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   output: |
     limpar o escritório
     fazer as compras
-    terminar lição
+    terminar a lição
 name: Preciso de uma substituição
