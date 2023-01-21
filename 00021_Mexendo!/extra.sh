@@ -1,4 +1,4 @@
 mkdir bachata
 mkdir rock
 mkdir chacarera
-touch rock/la_bida_es_una_moneda.mp3 
+touch rock/tenpo_perdido.mp3.mp3 

@@ -18,4 +18,4 @@ $ ls
 forró sertanejo rock
 ```
 
-> Vejamos se você entendeu:no diretório `rock` existe um arquivo chamado `Tenpo_perdido.mp3`. Renomeie o arquivo para corrigir o erro de ortografia :stuck_out_tongue:.
+> Vejamos se você entendeu:no diretório `rock` existe um arquivo chamado `tenpo_perdido.mp3`. Renomeie o arquivo para corrigir o erro de ortografia :stuck_out_tongue:.
