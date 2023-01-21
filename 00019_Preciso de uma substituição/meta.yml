@@ -11,7 +11,7 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_outputs
   query: cat tarefas.txt
-  output: |
+  output: |-
     limpar o escritório
     fazer as compras
     terminar a lição
