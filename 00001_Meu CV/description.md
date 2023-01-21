@@ -6,4 +6,4 @@ Vamos fazer um currículo! A ideia é dizer ao mundo quem você é e quais coisa
 > * _Ruby_
 > * _HTML_
 >
-> Já deixamos o molde usando o linguagem HTML, é a sua vez de finalizá-lo! :muscle:
+> Já deixamos o modelo usando o linguagem HTML, é a sua vez de finalizá-lo! :muscle:
