@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_passes
-  query: grep "Manuseio do Terminal" /home/mumuki/currículos/curriculo-v5.html
+  query: grep "Manuseio do Terminal" /home/mumuki/curriculos/curriculo-v5.html
 name: Juntando tudo
