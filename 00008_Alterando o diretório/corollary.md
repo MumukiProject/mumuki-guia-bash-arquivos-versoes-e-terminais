@@ -1,4 +1,4 @@
-Muito bem! Como já era de esperar, a medida que fazemos `cd`, o resultado de `pwd` muda:
+Muito bem! Como já era de se esperar, a medida que fazemos `cd`, o resultado de `pwd` muda:
 
 ```bash
 $ pwd
