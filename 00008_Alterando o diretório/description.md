@@ -15,4 +15,4 @@ $ ls
 Sentimento_do_mundo.txt  poesias.txt
 ```
 
->Vejamos se você entendeu: mude para o diretório `lispector` e liste seus arquivos.
+> Vejamos se você entendeu: mude para o diretório `lispector` e liste seus arquivos.
