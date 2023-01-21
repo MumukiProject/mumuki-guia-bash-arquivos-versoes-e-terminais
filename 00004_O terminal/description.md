@@ -1,4 +1,4 @@
-Acabamos de ver como gerar novas versões criando e editando cópias de `currículo.html`. Como poderíamos _ listá-los_ mais tarde? Por exemplo, podemos entrar em nosso _explorador de arquivos_ :open_file_folder::
+Acabamos de ver como gerar novas versões criando e editando cópias de `currículo.html`. Como poderíamos _listá-los_ mais tarde? Por exemplo, podemos entrar em nosso _explorador de arquivos_ :open_file_folder::
 
 <div class="mu-filebrowser" data-file="[
   { type: 'file',  name: 'curriculo-v1.html', content: ''},
