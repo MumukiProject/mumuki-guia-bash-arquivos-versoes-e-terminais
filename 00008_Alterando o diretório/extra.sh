@@ -1,5 +1,5 @@
-mkdir escritos
-cd escritos
+mkdir poesias
+cd poesias
 mkdir drummond
 mkdir lispector
 mkdir machado_de_assis
