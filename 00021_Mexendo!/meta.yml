@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: query_passes
-  query: test -e /home/mumuki/rock/tempo_perdido.mp3 && test ! -e /home/mumuki/rock/tempo_perdido.mp3
+  query: test -e /home/mumuki/rock/tempo_perdido.mp3 && test ! -e /home/mumuki/rock/tenpo_perdido.mp3
 name: Mexendo!
