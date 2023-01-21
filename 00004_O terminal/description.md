@@ -6,6 +6,6 @@ Acabamos de ver como gerar novas versões criando e editando cópias de `curríc
   { type: 'file',  name: 'curriculo-v3.html', content: ''}
 ]"></div>
 
-e observar que existem três versões. Mas vamos conhecer uma nova forma: vamos usar **um terminal **! :
+e observar que existem três versões. Mas vamos conhecer uma nova forma: vamos usar **um terminal**! :
 
 > O terminal é o console no qual você pode digitar comandos. Digite `ls` e veja o que acontece.  
