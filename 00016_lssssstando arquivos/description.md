@@ -9,8 +9,7 @@ curriculo-v2.html
 curriculo-v3.html
 ```
 
-
-…estamos listando os arquivos no diretório atual. E se quisermos detalhes de um arquivo em particular, podemos escrever `ls -l nome_do_arquivo`:
+...estamos listando os arquivos no diretório atual. E se quisermos detalhes de um arquivo em particular, podemos escrever `ls -l nome_do_arquivo`:
 
 ```sh
 $ ls -l curriculo-v1.html
