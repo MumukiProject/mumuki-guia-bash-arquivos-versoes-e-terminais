@@ -25,4 +25,4 @@ fazer as compras
 fazer exercício 11
 ```
 
-> Vejamos se você entendeu: substitua em `tarefas.txt` _fazer exercicio 11_ por _terminar a lição_.
+> Vejamos se você entendeu: substitua em `tarefas.txt` _fazer exercicio 11_ por _terminar a lição_!
