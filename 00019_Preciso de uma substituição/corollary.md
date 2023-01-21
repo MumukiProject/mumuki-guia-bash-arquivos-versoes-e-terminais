@@ -1,6 +1,6 @@
 Muito bem! :star2:
 
-Podemos até ser mais espertos e pedir a `sed` para substituir a palavra toda vez que ela aparecer, o que é conhecido como _substituição global_:
+Podemos até ser mais espertos e pedir ao `sed` para substituir a palavra toda vez que ela aparecer, o que é conhecido como _substituição global_:
 
 ```bash
 $ cat pais_e_filhos.txt
