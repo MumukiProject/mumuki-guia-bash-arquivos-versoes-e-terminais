@@ -1,4 +1,4 @@
-mkdir bachata
+mkdir forro
 mkdir rock
-mkdir chacarera
+mkdir sertanejo
 touch rock/tenpo_perdido.mp3 
